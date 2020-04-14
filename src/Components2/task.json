@@ -1,0 +1,30 @@
+[
+    {
+        "Id" : "CIDD03108D",
+        "title" : "Study 101",
+        "Description" : "Loreum ipsum dolor sit amet, consectetur adispicing elit, sid edo esumat tempor incididut ut lobear et dolore",
+        "c" : "fa fa-exclamation-circle",
+        "Date" : "21.04.2020",
+        "info" : "1 due time missed",
+        "Progress":"4"
+
+    },
+    {
+        "Id" : "CIDD03109D",
+        "title" : "Study 102",
+        "Description" : "Loreum ipsum dolor sit amet, consectetur adispicing elit, sid edo esumat tempor incididut ut lobear et dolore",
+        "c" : "fa fa-exclamation-circle",
+        "Date" : "23.05.2020",
+        "info" : "4 due time missed",
+        "Progress":"3"
+    },
+    {
+        "Id" : "CIDD03109D",
+        "title" : "Study 103",
+        "Description" : "Loreum ipsum dolor sit amet, consectetur adispicing elit, sid edo esumat tempor incididut ut lobear et dolore",
+        "c" : "fa fa-check-circle",
+        "Date" : "26.04.2020",
+        "info":"On time",
+        "Progress":"2"
+    }
+]

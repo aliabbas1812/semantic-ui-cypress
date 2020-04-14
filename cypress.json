@@ -1,0 +1,11 @@
+{
+    
+
+    "baseUrl": "http://localhost:3001/",
+    
+    "include":[
+        "./node_modules/cypress",
+        "cypress/**/*.js"
+    ]
+
+}
